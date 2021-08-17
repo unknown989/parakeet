@@ -10,7 +10,7 @@ To run it ,use:
  you can remove 'bytetime.txt' but the script we'll have to re-calculate it , and it's recommended to remove it from time to time
  # Notices
  * Parakeet gives more floating points than linux 'time' utility
- * If the program you wanna calculate time for has like a file dialog the parakeet won't add that
+ * If the program you wanna calculate time for has some user interaction ,the parakeet won't add that
  * If the program isn't an executable parakeet won't be accurate at all
  * If the program sleeps , parakeet won't add that (not tested)
  * You can change the source code to get nanoseconds accuracy instead of miliseconds
