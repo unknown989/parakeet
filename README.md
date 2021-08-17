@@ -5,7 +5,7 @@ So first of all the script need to calculate what I call a bytetime which is how
 that means when you'll run it the first time ,it will calculate it and write a 'bytetime.txt' file , then you'll have to re-run the script.
 To run it ,use:
  ```bash
- python main.py [program you wanna calculate]
+ python3 parakeet.py [program you wanna calculate]
  ```
  you can remove 'bytetime.txt' but the script we'll have to re-calculate it , and it's recommended to remove it from time to time
  # Notices
